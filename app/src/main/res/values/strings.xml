@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Chatpate</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="chatpate_ingrediants">
+        <item>Onion</item>
+        <item>Cucumber</item>
+        <item>Tomato</item>
+        <item>Peas</item>
+        <item>Potato</item>
+        <item>Dhaniya</item>
+        <item>Chat Masala</item>
+        <item>Green Chilly</item>
+        <item>Kagati</item>
+        <item>Oil</item>
+        <item>Salt</item>
+        <item>Murai</item>
+        <item>Chau Chau</item>
+        <item>Chilly Powder</item>
+        <item>Masala</item>
+
+    </string-array>
+</resources>
